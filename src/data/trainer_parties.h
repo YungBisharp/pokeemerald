@@ -10288,7 +10288,7 @@ static const struct TrainerMon sParty_MayRustboroTreecko[] = {
 static const struct TrainerMon sParty_MayRustboroTorchic[] = {
     {
     .iv = 25,
-    .lvl = 13,
+    .lvl = 14,
     .species = SPECIES_TORKOAL,
     },
     {
